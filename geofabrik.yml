@@ -30,7 +30,6 @@ elements:
     name: Afghanistan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -43,7 +42,6 @@ elements:
     name: Africa
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -54,7 +52,6 @@ elements:
     name: Alabama
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -67,7 +64,6 @@ elements:
     name: Alaska
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -80,7 +76,6 @@ elements:
     name: Albania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -93,7 +88,6 @@ elements:
     name: Alberta
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -106,7 +100,6 @@ elements:
     name: Algeria
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -119,7 +112,6 @@ elements:
     name: Alps
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -131,7 +123,6 @@ elements:
     name: Alsace
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -144,7 +135,6 @@ elements:
     name: Andorra
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -157,7 +147,6 @@ elements:
     name: Angola
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -170,7 +159,6 @@ elements:
     name: Antarctica
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -182,7 +170,6 @@ elements:
     name: Aquitaine
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -195,7 +182,6 @@ elements:
     name: Argentina
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -208,7 +194,6 @@ elements:
     name: Arizona
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -221,7 +206,6 @@ elements:
     name: Arkansas
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -234,7 +218,6 @@ elements:
     name: Armenia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -247,7 +230,6 @@ elements:
     name: Regierungsbezirk Arnsberg
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -269,7 +251,6 @@ elements:
     name: Australia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -281,7 +262,6 @@ elements:
     name: Australia and Oceania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -292,7 +272,6 @@ elements:
     name: Austria
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -305,7 +284,6 @@ elements:
     name: Auvergne
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -318,7 +296,6 @@ elements:
     name: Azerbaijan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -331,7 +308,6 @@ elements:
     name: Azores
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -344,7 +320,6 @@ elements:
     name: Baden-Württemberg
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -357,7 +332,6 @@ elements:
     name: Bangladesh
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -370,7 +344,6 @@ elements:
     name: Basse-Normandie
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -383,7 +356,6 @@ elements:
     name: Bayern
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -396,7 +368,6 @@ elements:
     name: Bedfordshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -409,7 +380,6 @@ elements:
     name: Belarus
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -422,7 +392,6 @@ elements:
     name: Belgium
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -435,7 +404,6 @@ elements:
     name: Belize
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -448,7 +416,6 @@ elements:
     name: Benin
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -461,7 +428,6 @@ elements:
     name: Berkshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -474,7 +440,6 @@ elements:
     name: Berlin
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -487,7 +452,6 @@ elements:
     name: Bhutan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -500,7 +464,6 @@ elements:
     name: Bolivia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -513,7 +476,6 @@ elements:
     name: Bosnia-Herzegovina
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -524,7 +486,6 @@ elements:
     name: Botswana
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -537,7 +498,6 @@ elements:
     name: Bourgogne
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -550,7 +510,6 @@ elements:
     name: Brandenburg (mit Berlin)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -563,7 +522,6 @@ elements:
     name: Brazil
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -574,7 +532,6 @@ elements:
     name: Bremen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -587,7 +544,6 @@ elements:
     name: Bretagne
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -600,7 +556,6 @@ elements:
     name: Bristol
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -613,7 +568,6 @@ elements:
     name: British Columbia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -636,7 +590,6 @@ elements:
     name: Buckinghamshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -649,7 +602,6 @@ elements:
     name: Bulgaria
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -662,7 +614,6 @@ elements:
     name: Burkina Faso
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -675,7 +626,6 @@ elements:
     name: Burundi
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -688,7 +638,6 @@ elements:
     name: California
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -701,7 +650,6 @@ elements:
     name: Cambodia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -714,7 +662,6 @@ elements:
     name: Cambridgeshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -727,7 +674,6 @@ elements:
     name: Cameroon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -740,7 +686,6 @@ elements:
     name: Canada
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -752,7 +697,6 @@ elements:
     name: Canary Islands
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -765,7 +709,6 @@ elements:
     name: Cape Verde
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -778,7 +721,6 @@ elements:
     name: Central African Republic
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -800,7 +742,6 @@ elements:
     name: Central Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -813,7 +754,6 @@ elements:
     name: Centre
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -826,7 +766,6 @@ elements:
     name: Centro
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -839,7 +778,6 @@ elements:
     name: Chad
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -852,7 +790,6 @@ elements:
     name: Champagne Ardenne
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -865,7 +802,6 @@ elements:
     name: Cheshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -878,7 +814,6 @@ elements:
     name: Chile
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -891,7 +826,6 @@ elements:
     name: China
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -904,7 +838,6 @@ elements:
     name: Chūbu region
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -917,7 +850,6 @@ elements:
     name: Chūgoku region
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -930,7 +862,6 @@ elements:
     name: Colombia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -943,7 +874,6 @@ elements:
     name: Colorado
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -956,7 +886,6 @@ elements:
     name: Comores
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -969,7 +898,6 @@ elements:
     name: Congo (Republic/Brazzaville)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -982,7 +910,6 @@ elements:
     name: Congo (Democratic Republic/Kinshasa)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -995,7 +922,6 @@ elements:
     name: Connecticut
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1008,7 +934,6 @@ elements:
     name: Cornwall
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1021,7 +946,6 @@ elements:
     name: Corse
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1034,7 +958,6 @@ elements:
     name: Crimean Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1047,7 +970,6 @@ elements:
     name: Croatia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -1058,7 +980,6 @@ elements:
     name: Cuba
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1071,7 +992,6 @@ elements:
     name: Cumbria
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1084,7 +1004,6 @@ elements:
     name: Cyprus
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1097,7 +1016,6 @@ elements:
     name: Czech Republic
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -1108,7 +1026,6 @@ elements:
     name: Germany, Austria, Switzerland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1120,7 +1037,6 @@ elements:
     name: Delaware
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1133,7 +1049,6 @@ elements:
     name: Denmark
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1146,7 +1061,6 @@ elements:
     name: Derbyshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1159,7 +1073,6 @@ elements:
     name: Regierungsbezirk Detmold
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1172,7 +1085,6 @@ elements:
     name: Devon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1185,7 +1097,6 @@ elements:
     name: District of Columbia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1198,7 +1109,6 @@ elements:
     name: Djibouti
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1211,7 +1121,6 @@ elements:
     name: Województwo dolnośląskie(Lower Silesian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1224,7 +1133,6 @@ elements:
     name: Dorset
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1237,7 +1145,6 @@ elements:
     name: Regierungsbezirk Düsseldorf
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1250,7 +1157,6 @@ elements:
     name: East Sussex
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1263,7 +1169,6 @@ elements:
     name: East Yorkshire with Hull
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1276,7 +1181,6 @@ elements:
     name: Ecuador
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1288,7 +1192,6 @@ elements:
     name: Egypt
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1301,7 +1204,6 @@ elements:
     name: England
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1314,7 +1216,6 @@ elements:
     name: Equatorial Guinea
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1327,7 +1228,6 @@ elements:
     name: Eritrea
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1340,7 +1240,6 @@ elements:
     name: Essex
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1353,7 +1252,6 @@ elements:
     name: Estonia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1366,7 +1264,6 @@ elements:
     name: Ethiopia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1379,7 +1276,6 @@ elements:
     name: Europe
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1390,7 +1286,6 @@ elements:
     name: Far Eastern Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1403,7 +1298,6 @@ elements:
     name: Faroe Islands
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1416,7 +1310,6 @@ elements:
     name: Fiji
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1429,7 +1322,6 @@ elements:
     name: Finland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -1440,7 +1332,6 @@ elements:
     name: Florida
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1453,7 +1344,6 @@ elements:
     name: France
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1465,7 +1355,6 @@ elements:
     name: Franche Comte
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1478,7 +1367,6 @@ elements:
     name: Regierungsbezirk Freiburg
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1491,7 +1379,6 @@ elements:
     name: Gabon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1504,7 +1391,6 @@ elements:
     name: GCC States
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1518,7 +1404,6 @@ elements:
     name: Georgia (Europe country)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1532,7 +1417,6 @@ elements:
     name: Georgia (US State)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1545,7 +1429,6 @@ elements:
     name: Germany
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1557,7 +1440,6 @@ elements:
     name: Ghana
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1570,7 +1452,6 @@ elements:
     name: Gloucestershire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1583,7 +1464,6 @@ elements:
     name: Great Britain
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1595,7 +1475,6 @@ elements:
     name: Greater London
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1608,7 +1487,6 @@ elements:
     name: Greater Manchester
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1621,7 +1499,6 @@ elements:
     name: Greece
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1634,7 +1511,6 @@ elements:
     name: Greenland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1647,7 +1523,6 @@ elements:
     name: Guadeloupe
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1659,7 +1534,6 @@ elements:
     name: Guatemala
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1672,7 +1546,6 @@ elements:
     name: Guinea
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1685,7 +1558,6 @@ elements:
     name: Guinea-Bissau
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1698,7 +1570,6 @@ elements:
     name: Guyane
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -1710,7 +1581,6 @@ elements:
     name: Haiti and Dominican Republic
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1723,7 +1593,6 @@ elements:
     name: Hamburg
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1736,7 +1605,6 @@ elements:
     name: Hampshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1749,7 +1617,6 @@ elements:
     name: Haute-Normandie
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1762,7 +1629,6 @@ elements:
     name: Hawaii
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1775,7 +1641,6 @@ elements:
     name: Herefordshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1788,7 +1653,6 @@ elements:
     name: Hertfordshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1801,7 +1665,6 @@ elements:
     name: Hessen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1814,7 +1677,6 @@ elements:
     name: Hokkaidō
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1827,7 +1689,6 @@ elements:
     name: Hungary
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1840,7 +1701,6 @@ elements:
     name: Iceland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1853,7 +1713,6 @@ elements:
     name: Idaho
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1866,7 +1725,6 @@ elements:
     name: Ile-de-France
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1879,7 +1737,6 @@ elements:
     name: Illinois
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1892,7 +1749,6 @@ elements:
     name: India
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -1903,7 +1759,6 @@ elements:
     name: Indiana
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1916,7 +1771,6 @@ elements:
     name: Indonesia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1929,7 +1783,6 @@ elements:
     name: Iowa
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1942,7 +1795,6 @@ elements:
     name: Iran
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1955,7 +1807,6 @@ elements:
     name: Iraq
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1968,7 +1819,6 @@ elements:
     name: Ireland and Northern Ireland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1981,7 +1831,6 @@ elements:
     name: Isle of Man
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -1994,7 +1843,6 @@ elements:
     name: Isle of Wight
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2007,7 +1855,6 @@ elements:
     name: Isole
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2020,7 +1867,6 @@ elements:
     name: Israel and Palestine
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2043,7 +1889,6 @@ elements:
     name: Ivory Coast
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2056,7 +1901,6 @@ elements:
     name: jamaica
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2069,7 +1913,6 @@ elements:
     name: Japan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -2081,7 +1924,6 @@ elements:
     name: Jordan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2094,7 +1936,6 @@ elements:
     name: Kaliningrad
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2107,7 +1948,6 @@ elements:
     name: Kansai region (a.k.a. Kinki region)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2120,7 +1960,6 @@ elements:
     name: Kansas
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2133,7 +1972,6 @@ elements:
     name: Kantō region
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2146,7 +1984,6 @@ elements:
     name: Regierungsbezirk Karlsruhe
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2159,7 +1996,6 @@ elements:
     name: Kazakhstan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2172,7 +2008,6 @@ elements:
     name: Kent
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2185,7 +2020,6 @@ elements:
     name: Kentucky
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2198,7 +2032,6 @@ elements:
     name: Kenya
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2211,7 +2044,6 @@ elements:
     name: Regierungsbezirk Köln
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2224,7 +2056,6 @@ elements:
     name: Kosovo
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2237,7 +2068,6 @@ elements:
     name: Województwo kujawsko-pomorskie(Kuyavian-Pomeranian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2250,7 +2080,6 @@ elements:
     name: Kyrgyzstan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2263,7 +2092,6 @@ elements:
     name: Kyūshū
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2276,7 +2104,6 @@ elements:
     name: Lancashire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2289,7 +2116,6 @@ elements:
     name: Languedoc-Roussillon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2302,7 +2128,6 @@ elements:
     name: Laos
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2315,7 +2140,6 @@ elements:
     name: Latvia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2328,7 +2152,6 @@ elements:
     name: Lebanon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2341,7 +2164,6 @@ elements:
     name: Leicestershire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2354,7 +2176,6 @@ elements:
     name: Lesotho
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2367,7 +2188,6 @@ elements:
     name: Liberia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2380,7 +2200,6 @@ elements:
     name: Libya
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2393,7 +2212,6 @@ elements:
     name: Liechtenstein
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2406,7 +2224,6 @@ elements:
     name: Limousin
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2419,7 +2236,6 @@ elements:
     name: Lincolnshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2432,7 +2248,6 @@ elements:
     name: Lithuania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -2443,7 +2258,6 @@ elements:
     name: Województwo łódzkie(Łódź Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2456,7 +2270,6 @@ elements:
     name: Lorraine
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2469,7 +2282,6 @@ elements:
     name: Louisiana
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2482,7 +2294,6 @@ elements:
     name: Województwo lubelskie(Lublin Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2495,7 +2306,6 @@ elements:
     name: Województwo lubuskie(Lubusz Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2508,7 +2318,6 @@ elements:
     name: Luxembourg
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -2519,7 +2328,6 @@ elements:
     name: Macedonia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2532,7 +2340,6 @@ elements:
     name: Madagascar
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2545,7 +2352,6 @@ elements:
     name: Maine
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2558,7 +2364,6 @@ elements:
     name: Malawi
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2571,7 +2376,6 @@ elements:
     name: Malaysia, Singapore, and Brunei
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -2583,7 +2387,6 @@ elements:
     name: Maldives
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2596,7 +2399,6 @@ elements:
     name: Mali
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2609,7 +2411,6 @@ elements:
     name: Województwo małopolskie(Lesser Poland Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2622,7 +2423,6 @@ elements:
     name: Malta
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2635,7 +2435,6 @@ elements:
     name: Manitoba
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2648,7 +2447,6 @@ elements:
     name: Martinique
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -2660,7 +2458,6 @@ elements:
     name: Maryland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2673,7 +2470,6 @@ elements:
     name: Massachusetts
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2686,7 +2482,6 @@ elements:
     name: Mauritania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2699,7 +2494,6 @@ elements:
     name: Mauritius
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2712,7 +2506,6 @@ elements:
     name: Mayotte
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -2724,7 +2517,6 @@ elements:
     name: Województwo mazowieckie(Mazovian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2737,7 +2529,6 @@ elements:
     name: Mecklenburg-Vorpommern
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -2748,7 +2539,6 @@ elements:
     name: Merseyside
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2761,7 +2551,6 @@ elements:
     name: Mexico
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2774,7 +2563,6 @@ elements:
     name: Michigan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2787,7 +2575,6 @@ elements:
     name: Midi-Pyrenees
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2800,7 +2587,6 @@ elements:
     name: Minnesota
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2813,7 +2599,6 @@ elements:
     name: Mississippi
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2826,7 +2611,6 @@ elements:
     name: Missouri
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2839,7 +2623,6 @@ elements:
     name: Mittelfranken
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2852,7 +2635,6 @@ elements:
     name: Moldova
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2865,7 +2647,6 @@ elements:
     name: Monaco
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2878,7 +2659,6 @@ elements:
     name: Mongolia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2891,7 +2671,6 @@ elements:
     name: Montana
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2904,7 +2683,6 @@ elements:
     name: Montenegro
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2917,7 +2695,6 @@ elements:
     name: Morocco
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2930,7 +2707,6 @@ elements:
     name: Mozambique
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2943,7 +2719,6 @@ elements:
     name: Regierungsbezirk Münster
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2956,7 +2731,6 @@ elements:
     name: Myanmar (a.k.a. Burma)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2969,7 +2743,6 @@ elements:
     name: Namibia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2982,7 +2755,6 @@ elements:
     name: Nebraska
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -2995,7 +2767,6 @@ elements:
     name: Nepal
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3008,7 +2779,6 @@ elements:
     name: Netherlands
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3021,7 +2791,6 @@ elements:
     name: Nevada
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3034,7 +2803,6 @@ elements:
     name: New Brunswick
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3047,7 +2815,6 @@ elements:
     name: New Caledonia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3060,7 +2827,6 @@ elements:
     name: New Hampshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3073,7 +2839,6 @@ elements:
     name: New Jersey
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3086,7 +2851,6 @@ elements:
     name: New Mexico
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3099,7 +2863,6 @@ elements:
     name: New York
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3112,7 +2875,6 @@ elements:
     name: New Zealand
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3125,7 +2887,6 @@ elements:
     name: Newfoundland and Labrador
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3138,7 +2899,6 @@ elements:
     name: Nicaragua
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -3150,7 +2910,6 @@ elements:
     name: Niederbayern
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3163,7 +2922,6 @@ elements:
     name: Niedersachsen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3176,7 +2934,6 @@ elements:
     name: Niger
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3189,7 +2946,6 @@ elements:
     name: Nigeria
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3202,7 +2958,6 @@ elements:
     name: Nord-Est
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3215,7 +2970,6 @@ elements:
     name: Nord-Ovest
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3228,7 +2982,6 @@ elements:
     name: Nord-Pas-de-Calais
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3241,7 +2994,6 @@ elements:
     name: Nordrhein-Westfalen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3254,7 +3006,6 @@ elements:
     name: Norfolk
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3267,7 +3018,6 @@ elements:
     name: North America
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -3278,7 +3028,6 @@ elements:
     name: North Carolina
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3291,7 +3040,6 @@ elements:
     name: North Caucasus Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3304,7 +3052,6 @@ elements:
     name: North Dakota
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3317,7 +3064,6 @@ elements:
     name: North Korea
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3330,7 +3076,6 @@ elements:
     name: North Yorkshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3343,7 +3088,6 @@ elements:
     name: Northamptonshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3356,7 +3100,6 @@ elements:
     name: Northumberland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3369,7 +3112,6 @@ elements:
     name: Northwest Territories
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3382,7 +3124,6 @@ elements:
     name: Northwestern Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3395,7 +3136,6 @@ elements:
     name: Norway
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3408,7 +3148,6 @@ elements:
     name: Nottinghamshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3421,7 +3160,6 @@ elements:
     name: Nova Scotia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3434,7 +3172,6 @@ elements:
     name: Nunavut
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3447,7 +3184,6 @@ elements:
     name: Oberbayern
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3460,7 +3196,6 @@ elements:
     name: Oberfranken
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3473,7 +3208,6 @@ elements:
     name: Oberpfalz
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3486,7 +3220,6 @@ elements:
     name: Ohio
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3499,7 +3232,6 @@ elements:
     name: Oklahoma
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3512,7 +3244,6 @@ elements:
     name: Ontario
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -3523,7 +3254,6 @@ elements:
     name: Województwo opolskie(Opole Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3536,7 +3266,6 @@ elements:
     name: Oregon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3549,7 +3278,6 @@ elements:
     name: Oxfordshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3562,7 +3290,6 @@ elements:
     name: Pakistan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3575,7 +3302,6 @@ elements:
     name: Papua New Guinea
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3588,7 +3314,6 @@ elements:
     name: Paraguay
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3601,7 +3326,6 @@ elements:
     name: Pays de la Loire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3614,7 +3338,6 @@ elements:
     name: Pennsylvania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3627,7 +3350,6 @@ elements:
     name: Peru
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3640,7 +3362,6 @@ elements:
     name: Philippines
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3653,7 +3374,6 @@ elements:
     name: Picardie
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3666,7 +3386,6 @@ elements:
     name: Województwo podkarpackie(Subcarpathian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3679,7 +3398,6 @@ elements:
     name: Województwo podlaskie(Podlaskie Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3692,7 +3410,6 @@ elements:
     name: Poitou-Charentes
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3705,7 +3422,6 @@ elements:
     name: Poland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -3717,7 +3433,6 @@ elements:
     name: Województwo pomorskie(Pomeranian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3730,7 +3445,6 @@ elements:
     name: Portugal
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3743,7 +3457,6 @@ elements:
     name: Prince Edward Island
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3756,7 +3469,6 @@ elements:
     name: Provence Alpes-Cote-d'Azur
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3769,7 +3481,6 @@ elements:
     name: Puerto Rico
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3782,7 +3493,6 @@ elements:
     name: Quebec
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3795,7 +3505,6 @@ elements:
     name: Reunion
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -3807,7 +3516,6 @@ elements:
     name: Rheinland-Pfalz
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3820,7 +3528,6 @@ elements:
     name: Rhode Island
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3833,7 +3540,6 @@ elements:
     name: Rhone-Alpes
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3846,7 +3552,6 @@ elements:
     name: Romania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3859,7 +3564,6 @@ elements:
     name: Russian Federation
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -3870,7 +3574,6 @@ elements:
     name: Rutland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3883,7 +3586,6 @@ elements:
     name: Rwanda
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3896,7 +3598,6 @@ elements:
     name: Saarland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3909,7 +3610,6 @@ elements:
     name: Sachsen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3922,7 +3622,6 @@ elements:
     name: Sachsen-Anhalt
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3935,7 +3634,6 @@ elements:
     name: Saint Helena, Ascension, and Tristan da Cunha
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3948,7 +3646,6 @@ elements:
     name: Sao Tome and Principe
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3961,7 +3658,6 @@ elements:
     name: Saskatchewan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3974,7 +3670,6 @@ elements:
     name: Schleswig-Holstein
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -3987,7 +3682,6 @@ elements:
     name: Schwaben
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4000,7 +3694,6 @@ elements:
     name: Scotland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4013,7 +3706,6 @@ elements:
     name: Senegal and Gambia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4026,7 +3718,6 @@ elements:
     name: Serbia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4039,7 +3730,6 @@ elements:
     name: Seychelles
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4052,7 +3742,6 @@ elements:
     name: Shikoku
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4065,7 +3754,6 @@ elements:
     name: Shropshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4078,7 +3766,6 @@ elements:
     name: Siberian Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4091,7 +3778,6 @@ elements:
     name: Sierra Leone
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4104,7 +3790,6 @@ elements:
     name: Województwo śląskie(Silesian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4117,7 +3802,6 @@ elements:
     name: Slovakia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4130,7 +3814,6 @@ elements:
     name: Slovenia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4143,7 +3826,6 @@ elements:
     name: Somalia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4156,7 +3838,6 @@ elements:
     name: Somerset
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4169,7 +3850,6 @@ elements:
     name: South Africa
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4182,7 +3862,6 @@ elements:
     name: South Africa (includes Lesotho)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4203,7 +3882,6 @@ elements:
     name: South Carolina
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4216,7 +3894,6 @@ elements:
     name: South Dakota
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4229,7 +3906,6 @@ elements:
     name: South Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4242,7 +3918,6 @@ elements:
     name: South Korea
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4255,7 +3930,6 @@ elements:
     name: South Sudan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4268,7 +3942,6 @@ elements:
     name: South Yorkshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4281,7 +3954,6 @@ elements:
     name: Spain
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4294,7 +3966,6 @@ elements:
     name: Sri Lanka
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4307,7 +3978,6 @@ elements:
     name: Staffordshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4320,7 +3990,6 @@ elements:
     name: Regierungsbezirk Stuttgart
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -4331,7 +4000,6 @@ elements:
     name: Sud
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4344,7 +4012,6 @@ elements:
     name: Sudan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4357,7 +4024,6 @@ elements:
     name: Suffolk
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4370,7 +4036,6 @@ elements:
     name: suriname
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4383,7 +4048,6 @@ elements:
     name: Surrey
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4396,7 +4060,6 @@ elements:
     name: Swaziland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4409,7 +4072,6 @@ elements:
     name: Sweden
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4422,7 +4084,6 @@ elements:
     name: Województwo świętokrzyskie(Świętokrzyskie Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4435,7 +4096,6 @@ elements:
     name: Switzerland
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4448,7 +4108,6 @@ elements:
     name: Syria
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4461,7 +4120,6 @@ elements:
     name: Taiwan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4474,7 +4132,6 @@ elements:
     name: Tajikistan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4486,7 +4143,6 @@ elements:
     name: Tanzania
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4499,7 +4155,6 @@ elements:
     name: Tennessee
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4512,7 +4167,6 @@ elements:
     name: Texas
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4525,7 +4179,6 @@ elements:
     name: Thailand
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4538,7 +4191,6 @@ elements:
     name: Thüringen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4551,7 +4203,6 @@ elements:
     name: Togo
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4564,7 +4215,6 @@ elements:
     name: Tōhoku region
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4577,7 +4227,6 @@ elements:
     name: Regierungsbezirk Tübingen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -4588,7 +4237,6 @@ elements:
     name: Tunisia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4601,7 +4249,6 @@ elements:
     name: Turkey
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -4612,7 +4259,6 @@ elements:
     name: Turkmenistan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4625,7 +4271,6 @@ elements:
     name: Uganda
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4638,7 +4283,6 @@ elements:
     name: Ukraine
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4651,7 +4295,6 @@ elements:
     name: Unterfranken
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4664,7 +4307,6 @@ elements:
     name: Ural Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4677,7 +4319,6 @@ elements:
     name: Uruguay
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4695,7 +4336,6 @@ elements:
     name: US Midwest
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4707,7 +4347,6 @@ elements:
     name: US Northeast
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4719,7 +4358,6 @@ elements:
     name: US Pacific
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4731,7 +4369,6 @@ elements:
     name: US South
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4743,7 +4380,6 @@ elements:
     name: US West
     files:
     - osm.pbf
-    - osm.pbf.md5
     - osm.bz2
     - osm.bz2.md5
     - poly
@@ -4755,7 +4391,6 @@ elements:
     name: Utah
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4768,7 +4403,6 @@ elements:
     name: Uzbekistan
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4781,7 +4415,6 @@ elements:
     name: Vermont
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4794,7 +4427,6 @@ elements:
     name: Vietnam
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4807,7 +4439,6 @@ elements:
     name: Virginia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4820,7 +4451,6 @@ elements:
     name: Volga Federal District
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - poly
     - kml
@@ -4831,7 +4461,6 @@ elements:
     name: Wales
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4844,7 +4473,6 @@ elements:
     name: Województwo warmińsko-mazurskie(Warmian-Masurian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4857,7 +4485,6 @@ elements:
     name: Warwickshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4870,7 +4497,6 @@ elements:
     name: Washington
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4883,7 +4509,6 @@ elements:
     name: West Midlands
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4896,7 +4521,6 @@ elements:
     name: West Sussex
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4909,7 +4533,6 @@ elements:
     name: West Virginia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4922,7 +4545,6 @@ elements:
     name: West Yorkshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4935,7 +4557,6 @@ elements:
     name: Województwo wielkopolskie(Greater Poland Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4948,7 +4569,6 @@ elements:
     name: Wiltshire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4961,7 +4581,6 @@ elements:
     name: Wisconsin
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4974,7 +4593,6 @@ elements:
     name: Worcestershire
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4987,7 +4605,6 @@ elements:
     name: Wyoming
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -5000,7 +4617,6 @@ elements:
     name: Yemen
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -5013,7 +4629,6 @@ elements:
     name: Yukon
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -5026,7 +4641,6 @@ elements:
     name: Województwo zachodniopomorskie(West Pomeranian Voivodeship)
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -5039,7 +4653,6 @@ elements:
     name: Zambia
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -5052,7 +4665,6 @@ elements:
     name: Zimbabwe
     files:
     - osm.pbf
-    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5

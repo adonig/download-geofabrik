@@ -42,7 +42,7 @@ jobs:
     - stage: OSMfr
       script: make osmfr
     - stage: GisLab
-      script: gislab
+      script: make gislab
     - stage: Readme
       script: Readme
     - stage: test
