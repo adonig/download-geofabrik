@@ -44,7 +44,7 @@ jobs:
     - stage: GisLab
       script: make gislab
     - stage: Readme
-      script: Readme
+      script: make readme
     - stage: test
       script:
         - go test -bench=. -benchmem -v ./...
