@@ -4307,6 +4307,7 @@ elements:
     name: Staffordshire
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4356,6 +4357,7 @@ elements:
     name: Suffolk
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4381,6 +4383,7 @@ elements:
     name: Surrey
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4854,6 +4857,7 @@ elements:
     name: Warwickshire
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4879,6 +4883,7 @@ elements:
     name: West Midlands
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4891,6 +4896,7 @@ elements:
     name: West Sussex
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4916,6 +4922,7 @@ elements:
     name: West Yorkshire
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4941,6 +4948,7 @@ elements:
     name: Wiltshire
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
@@ -4966,6 +4974,7 @@ elements:
     name: Worcestershire
     files:
     - osm.pbf
+    - osm.pbf.md5
     - shp.zip
     - osm.bz2
     - osm.bz2.md5
